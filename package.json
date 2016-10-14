@@ -19,5 +19,11 @@
     "presets": [
       "latest"
     ]
+  },
+  "eslintConfig": {
+    "extends": "airbnb",
+    "plugins": [
+      "import"
+    ]
   }
 }
